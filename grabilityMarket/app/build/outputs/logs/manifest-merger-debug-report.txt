@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml
+		INJECTED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml
+		INJECTED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml
+		INJECTED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:8:5-51:19
+MERGED from [com.android.support:design:23.4.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.0.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\AndroidManifest.xml:28:5-20
+	android:label
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.android.grabilityinc.Login
+ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:13:9-18:20
+	android:name
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:13:19-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:16:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:19:9-20:54
+	android:value
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:19:20-65
+activity#com.example.android.grabilityinc.MainActivity
+ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:22:9-26:20
+	android:screenOrientation
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:23:13-73
+activity#com.example.android.grabilityinc.DetailActivity
+ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:28:9-35:20
+	android:screenOrientation
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:30:13-49
+	android:parentActivityName
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:31:13-97
+	android:name
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:29:13-75
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:32:13-34:91
+	android:value
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:34:17-88
+	android:name
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:33:17-63
+activity#com.example.android.grabilityinc.CategoriesListActivity
+ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:37:9-44:20
+	android:screenOrientation
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:39:13-49
+	android:parentActivityName
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:40:13-87
+	android:name
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:38:13-83
+activity#com.facebook.FacebookActivity
+ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:46:9-50:48
+	android:label
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:50:13-45
+	android:configChanges
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:47:13-113
+	android:theme
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:49:13-72
+	android:name
+		ADDED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml:46:19-63
+uses-sdk
+INJECTED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.4.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.0.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\AndroidManifest.xml:24:5-26:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml
+		INJECTED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml
+		INJECTED from G:\grability\grabilityMarket\app\src\main\AndroidManifest.xml

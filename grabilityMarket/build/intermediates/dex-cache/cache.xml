@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\grability\grabilityMarket\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="05bbb25247dd1010d8fd3c8827ed3dfcd680f148">
+        <dex dex="G:\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_faf69906a6a60135f353808c06b1db170abff264\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="450a27d8c929e77b32e3bc32ba660404a4187dc5">
+        <dex dex="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5777c2aa81cc65ce351f84b0b97b0e6716ff4aa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-design-library-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="722471d9661266d7733a12385c0bd56a0cf01b1a">
+        <dex dex="D:\android-design-library-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4a066dd7f150a844d4f056990573beb79491e66f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_c400fd64f17883aa69779ef2cf35971f0e4587c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="G:\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_84d85974a6638a9159378d258e1770de9652bcb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.0.0_4ca0762c95a919830207ef5975f5e0a374af592d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="01b9ad86e5eb6e767672461aa8976375b56faac7">
+        <dex dex="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8ae695eabbb98b9075451ae9f37be804eb699891\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="G:\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_2c301c3d50df4564bd036a015f339270d0516074\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_4a5c2c9fabc00bfdf1c20eae7e3ae35036f9bf53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="G:\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_9ee216575f0789a2723039456f5df57f2ff03901\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_b6d5d55b1c519f22fc7276b308e0c1b6c76493b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_5758b9bfc0e8de0b805856b3d70f632680795f50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="G:\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_bd35bb1a0a14b2d9fd460cf16dc4328e54c68d86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_276e8100ad69eb17e65d5def77ee080f48292c6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-design-library-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\android-design-library-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_92ad1b61cd66c411ae7d268fbd0c7ec4970e2254\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="G:\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.0.0_8a6f9dc70d26fa6202248f14c64cfd8a24d38b35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-design-library-master\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\android-design-library-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_b59674dcc4517d032bfb9c165085a2daad8e8905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-design-library-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\android-design-library-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_9fdbfaf80d3292c9bb39f92f3dec583521593339\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-design-library-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9f7255e835d1f4e28b02748ab41b3b2910d1dd04">
+        <dex dex="D:\android-design-library-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d8e20ead5919f026e8eb8d9dae62ea589a8ae9dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\grability\grabilityMarket\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="73512b484d177dc682da313578713cc44b52d811">
+        <dex dex="G:\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c085ae49de0f168800dfc227488d4bf6f4c7fd6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="G:\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_bda4dc5013bce1b6ee9ff3bd1a10eb4a4d613d05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="G:\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_c22a951d6831839105b3aa966c45dacac0a7dba6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-design-library-master\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="D:\android-design-library-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.0.0_1db51382bdc954feed69a0f6ee81839b85d25f7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="G:\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_1a4f3b35892eeb73295ddeb959f414abc66d836b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-design-library-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\android-design-library-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_9f265fcbef10cdbd78049455e2ff486bb8cdfceb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-design-library-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\android-design-library-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_97f00e45c39849f44a35a6b5b7a4bb6a83f64af1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_647f6403696d7901f4d235d1e83599d4c7649a9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CRISTIAN ANGEL\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\android-design-library-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.1.4_3f9a7de12a9a4e32c684d73357635f3cb417b772\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="G:\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_8379ecd4caed28cee4e6f12924bc71041644caf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_1dee4ff665a2ce0ec1d506ad4a212586e3cd28b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-design-library-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\android-design-library-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_2d943814b61377233e23774305ac0115d9a3166f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\android-design-library-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\CRISTIAN ANGEL\Desktop\grability\grabilityMarket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_a52e9d6451e2b78aadb41f23e756a7a0375bd111\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-design-library-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\android-design-library-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_37caf160bb2ae7d419ff8a328e25e1fa1c7c99ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-design-library-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\android-design-library-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_f2459f8c10738ae49dd7822170fe11291eaa6587\classes.dex" />
+    </item>
+
+</items>

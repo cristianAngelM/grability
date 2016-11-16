@@ -1,0 +1,7 @@
+#Wed Nov 16 01:23:31 COT 2016
+base.0=G\:\\grability\\grabilityMarket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_faf69906a6a60135f353808c06b1db170abff264
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\grability\\grabilityMarket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c085ae49de0f168800dfc227488d4bf6f4c7fd6e\\classes.dex
+base.1=G\:\\grability\\grabilityMarket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c085ae49de0f168800dfc227488d4bf6f4c7fd6e
+file.0=G\:\\grability\\grabilityMarket\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_faf69906a6a60135f353808c06b1db170abff264\\classes.dex
